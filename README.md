@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VanFluse
+- 👋 Hi, I’m VanFlusen
 - 📫 How to reach me: VanFlusen@yahoo.com
 
 <!---
