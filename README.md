@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @VanFlusen
-- 📫 How to reach me: VanFlusen@yahoo.com
 
 <!---
 VanFlusen/VanFlusen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
